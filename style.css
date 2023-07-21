@@ -1,0 +1,23 @@
+body
+{
+    color: rgb(55, 218, 155);
+}
+
+#span_Score 
+{
+ font-size: 30px;
+ float: left;
+ margin-right: 50px;
+}
+
+#span_Timer  
+{
+  font-size: 30px;
+  float: right;
+  margin-left: 50px;
+}
+
+#p_Sketch_to_be_drawn
+{
+  color: teal;
+}
